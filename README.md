@@ -1,2 +1,3 @@
 # demo-repo
-my first repository
+My first repository
+Author- Sangam Dhakal
